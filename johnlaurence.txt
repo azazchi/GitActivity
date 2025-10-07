@@ -1,0 +1,3 @@
+Hello! My name is John Laurence L. Trinidad.
+
+I enjoy using Git, especially when working on a system.
